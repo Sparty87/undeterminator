@@ -1,0 +1,3 @@
+simulated_i5	detected_i7	detected_i5	correct
+fw	fw	fw	True
+rc	fw	rc	True

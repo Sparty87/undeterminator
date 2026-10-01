@@ -1,0 +1,6 @@
+anchor_mm	index_mm	recovery_pct	precision_pct	sensitivity_recoverable_pct
+3	1	80.44	100.000	91.03
+4	1	83.12	100.000	94.08
+5	1	83.63	100.000	94.65
+3	2	84.53	100.000	95.67
+5	2	87.89	100.000	99.47

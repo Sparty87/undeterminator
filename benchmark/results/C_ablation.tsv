@@ -1,0 +1,4 @@
+configuration	pairs	assigned	correct	recovery_pct	precision_pct	theoretical_pct	sensitivity_recoverable_pct
+full (anchor<=3 mm, index<=1 mm, dual index)	100000	80436	80436	80.436	100.000	88.358	91.034
+exact anchor and index	100000	6928	6928	6.928	100.000	88.358	7.841
+i7 only (no i5)	100000	0	0	0.000	nan	88.358	0.000
