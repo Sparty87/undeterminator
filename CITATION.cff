@@ -1,12 +1,13 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
-title: "Undeterminator: recovering sample identity from adapter read-through when index reads were not sequenced"
-version: 1.0.0
-date-released: 2026-10-01
-license: MIT
-repository-code: "https://github.com/<user>/undeterminator"
-keywords:
-  - demultiplexing
-  - Illumina
-  - adapter read-through
-  - sample sheet
+message: "Se utilizzi questo software, citalo come indicato di seguito."
+title: "undeterminator"
+type: software
+authors:
+  - family-names: "Spartano"
+    given-names: "Serena"
+version: "1.0.0"
+doi: "10.5281/zenodo.23083066"
+date-released: "2026-10-01"
+license: "MIT"
+repository-code: "https://github.com/Sparty87/undeterminator"
+abstract: "Undeterminator: recovering sample identity from adapter read-through when index reads were not sequenced"

@@ -1,5 +1,7 @@
 # Undeterminator
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23083065.svg)](https://doi.org/10.5281/zenodo.23083065)
+
 Undeterminator turns `Undetermined` reads back into samples. It recovers sample identity from **adapter read-through** when an Illumina run was
 sequenced **without index reads** (for example after a misparsed sample sheet).
 
